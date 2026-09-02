@@ -1,0 +1,6 @@
+{
+  "name": "Ammuri Aesthetics",
+  "description": "Natural-looking aesthetics in Ealing, London. Safe, hygienic treatments with Deepika & Ammuri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
